@@ -1,0 +1,182 @@
+.split {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-y: hidden;
+  padding: 20px;
+}
+
+.st {
+background-color:#1F2937;
+top:0;
+height:32.5%;
+padding: 5px;
+padding-left:155px;
+justify-content: space-between;
+}
+.nd {
+background-color:white ;
+top:32.5%;
+height:32.5%;
+
+
+}
+.rd {
+background-color: #E5E7EB;
+top:63.6%;
+height: 20%;
+}
+.th {
+  background-color: white;
+  top:80%;
+  height: 14%;
+
+}
+.en {
+  background-color:#1F2937 ;
+  top:94%;
+  height: 6%;
+  /* display: table; */
+  text-align: center;
+  padding-top: -2px;
+  padding-bottom: 2px;
+}
+.maintext {
+  font-size: 48px;
+  font-weight:bold;
+  color: #F9FAF8;
+  padding-bottom: -10px;
+  
+}
+.secondtext {
+  font-size:18px;
+  color: #E5E7EB;
+}
+header {
+  font-size: 24px;
+  color:#F9FAF8;
+}
+button {
+  background-color: #3882F6;
+  border-radius: 8px;
+  color: white;
+}
+.link1,
+.link2,
+.link3 {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+.link {
+      
+  display:inline-flex;
+  justify-content: right;
+  align-items: center;
+  justify-content: space-between;
+  gap:25px;
+  right: 0;
+  padding-left: 600px;
+
+}
+  .middle {
+  display:inline-flex;
+  gap: 80px;
+}
+.left {
+  left: 0;
+  width: 50%;
+}
+.right {
+  left: 50%;
+  background-color: #727b8e;
+  
+  width: 600px;
+text-align: center;
+display: table;
+
+}
+p {
+  display: table-cell;
+  vertical-align: middle;
+}
+.up {
+  display:flexbox;
+  gap: 10px;
+}
+.top {
+  display: inline-flex;
+}
+footer {
+color: white;
+/* display: table-cell;
+vertical-align: top; */
+padding-bottom: 2px;
+}
+.blue {
+  background-color:#3882F6 ;
+  height: 65px;
+  margin-right: 15%;
+  margin-left:10%;
+
+}
+ .mc {
+   display: inline-flex;
+   gap: 500px;
+   align-items: center;
+ }
+
+.text {
+  color:white;
+  padding-left: 10%;
+  padding-top: 5px;
+  left: 10%;
+}
+.btn {
+  color: white;
+  background-color: #3882F6;
+  left: 80%;
+   width: 50px;
+  border-color: white;
+  padding: 5px;
+
+ }
+ button {
+   text-align: center;
+   border: 1px solid white;
+ }
+.quote {
+  color: black;
+  padding-left: 11.5%;
+}
+.rd {
+  padding-left: 40%;
+}
+ .info {
+   color: #1F2937;
+   font-size: 36px;
+   font-weight: bolder;
+   padding-left: 35%;
+ }
+ .box {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 60px;
+
+ }
+ .cell {
+   width: 123.5px;
+   height: 90px;
+   border: 2px solid #3882F6;
+   border-radius: 5px;
+ 
+ }
+ 
+.bt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
